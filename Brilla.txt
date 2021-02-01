@@ -1,0 +1,16 @@
+ventas, factura y remito, el remito es quien descuenta stock
+Ventas negras, solo hacer el remito
+ver el tema de no imprimir los remitos con las facturas b
+ventas sin emitir remito para vender iva
+
+compras
+en oficina se pasan las compras como servicios
+en local se tienen que pasar como recepcion
+
+agregar firma en orden de pago y recibo
+
+
+
+ver tema de consulta de stock, tiene que estar con proveedor y rubro, sino no anda
+revisar tamaño de campo en tmp_inventario.codigo y descripcion, que coincidan con los de la
+tabla articulso
