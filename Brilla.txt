@@ -1,3 +1,6 @@
+
+
+esta editado en Github
 ventas, factura y remito, el remito es quien descuenta stock
 Ventas negras, solo hacer el remito
 ver el tema de no imprimir los remitos con las facturas b
